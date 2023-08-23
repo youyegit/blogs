@@ -1,5 +1,5 @@
 # Introduction
-This is a repo that contain something that I want to share. 
+This is a repo that contains something that I want to share. 
 
 # Licence
 - The repo can be used for study and research. 
