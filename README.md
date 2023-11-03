@@ -4,6 +4,7 @@ This is a repo that contains something that I want to share.
 # stable_diffusion_ComfyUI_workflows
 ## tdxh_node_comfyui
 If you use the workflows in this floder, you need to download custom_nodes form `https://github.com/youyegit/tdxh_node_comfyui`,which is customed according to my needs.
+I don't guarantee that the nodes will stay the same always. Some nodes maybe have been changed so you should change something to make it work. 
 ## other custom_nodes
 what's more, you need to download other custom_nodes that you can find on Github by ComfyUI-Manager or searching them to download manually.
 Maybe you need other custom_nodes in these repositories below:
